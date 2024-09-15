@@ -81,7 +81,7 @@ export default function About() {
               Passionate about coding and problem-solving, I am dedicated to mastering software engineering and delivering exceptional results in every project I undertake.
               From building system and applications to mastering system operations, I continuously strive for excellence.{" "}
               During my second year, I discovered my love for coding by winning a coding competition as lead programmer.{" "}        
-              Since then, I've been fascinated by the endless possibilities of programming.{" "}
+              Since then, Ive been fascinated by the endless possibilities of programming.{" "}
               <span className="inline-flex items-baseline">
                 <Image
                   src={Flash}
