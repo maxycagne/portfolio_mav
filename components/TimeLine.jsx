@@ -7,7 +7,7 @@ const TimeLine = () => {
       title: "Third Year College",
       duration: "2024",
       org: "STI College Tarlac",
-      skills: ["Mobile App Dev", "Java", "C#", "Pyhton", "SQL","Room Database", "Web Dev"],
+      skills: ["Mobile App Dev", "Java", "C#", "Phyton", "SQL","Room Database", "Web Dev"],
       class:
         "bg-red-100 text-red-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-red-900 dark:text-red-300",
     },
@@ -16,7 +16,7 @@ const TimeLine = () => {
       title: "Second Year College",
       duration: "2022 - 2023",
       org: "STI College Tarlac",
-      skills: ["Mobile App Dev", "Java", "C#", "Pyhton", "SQL"],
+      skills: ["Mobile App Dev", "Java", "C#", "Phyton", "SQL"],
       class:
         "bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300",
     },
@@ -25,7 +25,7 @@ const TimeLine = () => {
       title: "First Year College",
       duration: "2021 - 2022",
       org: "STI College Tarlac",
-      skills: ["Java", "Pyhton"],
+      skills: ["Java", "Phyton"],
       class:
         "bg-yellow-100 text-yellow-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300",
     },                                                      

@@ -9,7 +9,7 @@ const ProjectCard = () => {
     {
       id: 1,
       image: comingsoon,
-      title: "Restuarant App",
+      title: "Restaurant App",
       description: "An android application that can reserve foods in the resturant.",
       link: "",
       target: "_self",

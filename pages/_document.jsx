@@ -12,7 +12,7 @@
         
          
           <meta name="title" content="Maverick Cagne" />
-          <meta name="description" content="Developer // Designer // Programmer" />
+          <meta name="description" content="Developer // Designer // Mobile Dev" />
 
          
           <meta property="og:type" content="website" />

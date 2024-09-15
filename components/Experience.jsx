@@ -40,7 +40,7 @@ const Experience = () => {
         <div className="text-center max-w-2xl mx-auto tracking-normal leading-5 text-base sm:text-[1.1rem] lg:text-lg">
           During my journey as BSIT student, I have
           developed a strong problem-solving and critical thinking skills, and
-          am able to quickly adapt to new technologies and methods of working.
+          I am able to quickly adapt to new technologies and methods of working.
           Given are some skill-set that I have learned and am still actively
           learning as days goes by
         </div>
