@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://maverickcagne.vercel.app/
+
+# Sitemaps
+Sitemap: https://maverickcagne.vercel.app/sitemap.xml
